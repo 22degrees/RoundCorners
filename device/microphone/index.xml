@@ -1,0 +1,41 @@
+<!DOCTYPE template>
+<Template>
+
+    <!--
+    **************************************************************************************
+    MICROPHONE DEVICE BEGIN
+    **************************************************************************************
+    -->
+    <WidgetGroup>
+        <Layout>stacked</Layout>
+        <SizePolicy>me,me</SizePolicy>
+        <Children>
+
+            <Template src="skin:device/microphone/config.xml"/>
+
+            <WidgetGroup>
+                <ObjectName>Microphone<Variable name="Number"/></ObjectName>
+                <Layout>vertical</Layout>
+                <SizePolicy>me,max</SizePolicy>
+                <Children>
+
+                    <Template src="skin:device/microphone/border_top.xml"/>
+
+                    <Template src="skin:device/microphone/controls.xml"/>
+
+                    <Template src="skin:device/microphone/vu.xml"/>
+
+                    <Template src="skin:device/microphone/border_bottom.xml"/>
+
+                </Children>
+            </WidgetGroup>
+
+        </Children>
+    </WidgetGroup>
+    <!--
+    **************************************************************************************
+    MICROPHONE DEVICE END
+    **************************************************************************************
+    -->
+
+</Template>

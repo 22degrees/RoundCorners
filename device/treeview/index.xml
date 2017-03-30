@@ -1,0 +1,39 @@
+<!DOCTYPE template>
+<Template>
+
+    <!--
+    ************************************************************************
+    TREEVIEW DEVICE BEGIN
+    ************************************************************************
+    -->
+    <WidgetGroup>
+        <Layout>vertical</Layout>
+        <Children>
+
+            <WidgetGroup>
+                <ObjectName>BorderTop</ObjectName>
+                <MinimumSize>-1,22</MinimumSize>
+                <MaximumSize>-1,22</MaximumSize>
+            </WidgetGroup>
+
+            <WidgetGroup>
+                <ObjectName>Sidebar</ObjectName>
+                <Layout>vertical</Layout>
+                <Children>
+
+                    <LibrarySidebar></LibrarySidebar>
+
+                </Children>
+            </WidgetGroup>
+
+            <Template src="skin:device/treeview/border_bottom.xml"/>
+
+        </Children>
+    </WidgetGroup>
+    <!--
+    ************************************************************************
+    TREEVIEW DEVICE END
+    ************************************************************************
+    -->
+
+</Template>

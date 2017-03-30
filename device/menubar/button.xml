@@ -1,0 +1,33 @@
+<!DOCTYPE template>
+<Template>
+
+    <!--
+    **************************************************************************************
+    MENU BUTTON BEGIN
+    **************************************************************************************
+    -->
+    <PushButton>
+        <ObjectName><Variable name="ObjectName"/></ObjectName>
+        <Size><Variable name="Size"/></Size>
+        <NumberStates>2</NumberStates>
+        <State>
+            <Number>0</Number>
+            <Text><Variable name="text"/></Text>
+        </State>
+        <State>
+            <Number>1</Number>
+            <Text><Variable name="text"/></Text>
+        </State>
+        <Connection>
+            <ConfigKey persist="true"><Variable name="control"/></ConfigKey>
+            <EmitOnPressAndRelease>true</EmitOnPressAndRelease>
+            <ButtonState>LeftButton</ButtonState>
+        </Connection>
+    </PushButton>
+    <!--
+    **************************************************************************************
+    MENU BUTTON END
+    **************************************************************************************
+    -->
+
+</Template>

@@ -1,0 +1,53 @@
+<!DOCTYPE template>
+<Template>
+
+    <!--
+    **************************************************************************************
+    MIXER BUTTON BEGIN
+    **************************************************************************************
+    -->
+    <WidgetGroup>
+        <Layout>horizontal</Layout>
+        <MinimumSize>68,45</MinimumSize>
+        <MaximumSize>68,45</MaximumSize>
+        <Children>
+
+            <WidgetGroup><!-- margin-left -->
+                <MinimumSize>10,-1</MinimumSize>
+                <MaximumSize>10,-1</MaximumSize>
+            </WidgetGroup>
+
+            <PushButton>
+                <ObjectName><Variable name="ObjectName"/></ObjectName>
+                <TooltipId><Variable name="TooltipId"/></TooltipId>
+                <Size>48f,45f</Size>
+                <NumberStates>2</NumberStates>
+                <State>
+                    <Number>0</Number>
+                    <Text><Variable name="Label"/></Text>
+                </State>
+                <State>
+                    <Number>1</Number>
+                    <Text><Variable name="Label"/></Text>
+                </State>
+                <Connection>
+                    <ConfigKey><Variable name="ConfigKey"/></ConfigKey>
+                    <EmitOnPressAndRelease>true</EmitOnPressAndRelease>
+                    <ButtonState>LeftButton</ButtonState>
+                </Connection>
+            </PushButton>
+
+            <WidgetGroup><!-- margin-right -->
+                <MinimumSize>10,-1</MinimumSize>
+                <MaximumSize>10,-1</MaximumSize>
+            </WidgetGroup>
+
+        </Children>
+    </WidgetGroup>
+    <!--
+    **************************************************************************************
+    MIXER BUTTON END
+    **************************************************************************************
+    -->
+
+</Template>

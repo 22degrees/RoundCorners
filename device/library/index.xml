@@ -1,0 +1,35 @@
+<!DOCTYPE template>
+<Template>
+
+    <!--
+    **************************************************************************************
+    LIBRARY DEVICE BEGIN
+    **************************************************************************************
+    -->
+    <WidgetGroup>
+        <Layout>vertical</Layout>
+        <Children>
+
+            <Template src="skin:device/library/border_top.xml"/>
+
+            <WidgetGroup>
+                <ObjectName>Library</ObjectName>
+                <Layout>vertical</Layout>
+                <Children>
+
+                    <Library></Library>
+
+                </Children>
+            </WidgetGroup>
+
+            <Template src="skin:device/library/border_bottom.xml"/>
+
+        </Children>
+    </WidgetGroup>
+    <!--
+    **************************************************************************************
+    LIBRARY DEVICE END
+    **************************************************************************************
+    -->
+
+</Template>
