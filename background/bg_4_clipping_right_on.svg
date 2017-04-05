@@ -14,7 +14,7 @@
    id="svg11145"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="bg_4_clipping_on.svg"
+   sodipodi:docname="bg_4_clipping_right_on.svg"
    viewBox="0 0 33 23">
   <defs
      id="defs11147" />
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="10.330524"
-     inkscape:cx="22.921132"
-     inkscape:cy="22.233354"
+     inkscape:zoom="14.609567"
+     inkscape:cx="15.426043"
+     inkscape:cy="18.400249"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -35,7 +35,7 @@
      inkscape:bbox-nodes="true"
      inkscape:window-width="1680"
      inkscape:window-height="1028"
-     inkscape:window-x="-4"
+     inkscape:window-x="1676"
      inkscape:window-y="-3"
      inkscape:window-maximized="1">
     <inkscape:grid
@@ -54,7 +54,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -70,159 +70,89 @@
        height="0"
        x="9.3650351"
        y="1054.2761" />
-    <g
-       id="g4172"
-       transform="matrix(0,1,-1,0,1052.3622,996.3622)">
-      <rect
-         ry="2"
-         rx="1.9999998"
-         y="1020.3622"
-         x="24"
-         height="152"
-         width="20"
-         id="rect19269"
-         style="color:#000000;fill:none;stroke:#484848;stroke-width:2.00000024;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-      <rect
-         style="color:#000000;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="rect19297"
-         width="5"
-         height="8"
-         x="26"
-         y="1042.3622" />
-      <rect
-         y="1032.3622"
-         x="26"
-         height="8"
-         width="5"
-         id="rect19299"
-         style="color:#000000;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-      <rect
-         style="color:#000000;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="rect19301"
-         width="5"
-         height="8"
-         x="26"
-         y="1022.3622" />
-      <rect
-         y="1042.3622"
-         x="37.000004"
-         height="8"
-         width="5"
-         id="rect19327"
-         style="color:#000000;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-      <rect
-         style="color:#000000;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="rect19329"
-         width="5"
-         height="8"
-         x="37.000004"
-         y="1032.3622" />
-      <rect
-         y="1022.3622"
-         x="37.000004"
-         height="8"
-         width="5"
-         id="rect19331"
-         style="color:#000000;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-      <rect
-         style="color:#000000;fill:#8a0200;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="rect19420"
-         width="5"
-         height="8"
-         x="26"
-         y="1042.3622" />
-      <rect
-         y="1032.3622"
-         x="26"
-         height="8"
-         width="5"
-         id="rect19422"
-         style="color:#000000;fill:#8a0200;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-      <rect
-         style="color:#000000;fill:#8a0200;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="rect19424"
-         width="5"
-         height="8"
-         x="26"
-         y="1022.3622" />
-      <rect
-         y="1042.3622"
-         x="37.000004"
-         height="8"
-         width="5"
-         id="rect19430"
-         style="color:#000000;fill:#8a0200;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-      <rect
-         style="color:#000000;fill:#8a0200;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="rect19432"
-         width="5"
-         height="8"
-         x="37.000004"
-         y="1032.3622" />
-      <rect
-         y="1022.3622"
-         x="37.000004"
-         height="8"
-         width="5"
-         id="rect19434"
-         style="color:#000000;fill:#8a0200;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-      <rect
-         ry="14.2848"
-         rx="14.2848"
-         y="1052.8622"
-         x="8"
-         height="16.499983"
-         width="47"
-         id="rect4213"
-         style="opacity:0;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:0.54117647;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-      <rect
-         transform="matrix(0,-1,1,0,0,0)"
-         y="10"
-         x="-1033.3622"
-         height="10"
-         width="1.0000174"
-         id="rect11159-1-2"
-         style="color:#000000;fill:#484848;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-      <rect
-         transform="matrix(0,-1,1,0,0,0)"
-         y="48"
-         x="-1033.3622"
-         height="10"
-         width="1.0000174"
-         id="rect11159-1-0-6"
-         style="color:#000000;fill:#484848;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-      <rect
-         transform="matrix(0,-1,1,0,0,0)"
-         y="15"
-         x="-1023.3622"
-         height="5"
-         width="1.0000174"
-         id="rect11159-1-4-0"
-         style="color:#000000;fill:#484848;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-      <rect
-         transform="matrix(0,-1,1,0,0,0)"
-         y="48"
-         x="-1043.3622"
-         height="5"
-         width="1.0000174"
-         id="rect11159-1-0-8-2"
-         style="color:#000000;fill:#484848;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-      <rect
-         transform="matrix(0,-1,1,0,0,0)"
-         y="15"
-         x="-1043.3622"
-         height="5"
-         width="1.0000174"
-         id="rect11159-1-4-0-4"
-         style="color:#000000;fill:#484848;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-      <rect
-         transform="matrix(0,-1,1,0,0,0)"
-         y="48"
-         x="-1023.3622"
-         height="5"
-         width="1.0000174"
-         id="rect11159-1-0-8-2-1"
-         style="color:#000000;fill:#484848;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-    </g>
+    <path
+       style="color:#000000;fill:none;stroke:#484848;stroke-width:2.00000023999999987;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 32.000018 0.99998286 L 32.000019 8.9999829 C 32.000019 10.107983 31.108019 10.999983 30.000019 10.999983 L 1.0000178 10.999982 "
+       id="path3035"
+       transform="translate(0,1029.3622)" />
+    <rect
+       style="color:#000000;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect19327"
+       width="5"
+       height="8"
+       x="1033.3622"
+       y="-10.000017"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       y="-20.000017"
+       x="1033.3622"
+       height="8"
+       width="5"
+       id="rect19329"
+       style="color:#000000;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       style="color:#000000;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect19331"
+       width="5"
+       height="8"
+       x="1033.3622"
+       y="-30.000017"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       style="color:#000000;fill:#8a0200;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect19430"
+       width="5"
+       height="8"
+       x="1033.3622"
+       y="-10.000017"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       y="-20.000017"
+       x="1033.3622"
+       height="8"
+       width="5"
+       id="rect19432"
+       style="color:#000000;fill:#8a0200;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       style="color:#000000;fill:#8a0200;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect19434"
+       width="5"
+       height="8"
+       x="1033.3622"
+       y="-30.000017"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       style="opacity:0;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:0.54117647;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4213"
+       width="47"
+       height="16.499983"
+       x="1004.3622"
+       y="0.49998263"
+       rx="14.2848"
+       ry="14.2848"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       style="color:#000000;fill:#484848;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect11159-1-0-6"
+       width="1.0000174"
+       height="8.0000172"
+       x="19.000017"
+       y="1044.3622" />
+    <rect
+       style="color:#000000;fill:#484848;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect11159-1-0-8-2"
+       width="1.0000174"
+       height="5"
+       x="9.0000172"
+       y="1044.3622" />
+    <rect
+       style="color:#000000;fill:#484848;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect11159-1-0-8-2-1"
+       width="1.0000174"
+       height="5"
+       x="29.000017"
+       y="1044.3622" />
   </g>
 </svg>

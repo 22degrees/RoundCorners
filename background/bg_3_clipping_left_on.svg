@@ -14,7 +14,7 @@
    id="svg11145"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="bg_2_clipping_left_on.svg"
+   sodipodi:docname="bg_3_clipping_left_on.svg"
    viewBox="0 0 34 13">
   <defs
      id="defs11147" />
@@ -25,7 +25,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="20.661046"
+     inkscape:zoom="14.609566"
      inkscape:cx="38.456734"
      inkscape:cy="-4.2054931"
      inkscape:document-units="px"
@@ -35,7 +35,7 @@
      inkscape:bbox-nodes="true"
      inkscape:window-width="1680"
      inkscape:window-height="1028"
-     inkscape:window-x="-4"
+     inkscape:window-x="1676"
      inkscape:window-y="-3"
      inkscape:window-maximized="1">
     <inkscape:grid
@@ -54,7 +54,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -70,15 +70,11 @@
        height="0"
        x="9.3650351"
        y="1054.2761" />
-    <rect
-       style="color:#000000;fill:none;stroke:#484848;stroke-width:2.00000024;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect19269"
-       width="20"
-       height="152"
-       x="24"
-       y="1040.3622"
-       rx="1.9999998"
-       ry="2" />
+    <path
+       style="color:#000000;fill:none;stroke:#484848;stroke-width:2.00000023999999987;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 24 11.999982 L 24 2.9999826 C 24 1.8919826 24.892 0.99998262 26 0.99998262 L 26 0.99998262 L 33 0.99998262 "
+       id="path2999"
+       transform="translate(0,1039.3622)" />
     <rect
        y="1042.3622"
        x="26"

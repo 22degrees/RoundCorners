@@ -13,7 +13,7 @@
    height="8"
    id="svg11145"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="bg_1_slider_top.svg">
   <defs
      id="defs11147" />
@@ -24,19 +24,30 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="19.842869"
-     inkscape:cx="28.841595"
-     inkscape:cy="9.7259358"
+     inkscape:zoom="56.124109"
+     inkscape:cx="38.088958"
+     inkscape:cy="1.9200804"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
      inkscape:window-width="1382"
      inkscape:window-height="731"
      inkscape:window-x="1920"
      inkscape:window-y="80"
-     inkscape:window-maximized="0" />
+     inkscape:window-maximized="0"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2986"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
   <metadata
      id="metadata11150">
     <rdf:RDF>
@@ -61,17 +72,12 @@
        height="0"
        x="9.3650351"
        y="1054.2761" />
-    <rect
-       ry="1.9999998"
-       rx="1.9999998"
-       y="1045.3622"
-       x="24"
-       height="97.999985"
-       width="20"
-       id="rect18201-4-43"
+    <path
        style="color:#000000;fill:none;stroke:#484848;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       inkscape:export-filename="/root/Desktop/bg_6_slider.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       d="m 24,7 0,-4.0000176 c 0,-1.1079999 0.892,-1.99999978 2,-1.99999978 l 0,0 16,0 c 1.108,0 2,0.89199988 2,1.99999978 L 44,7"
+       id="path2993"
+       transform="translate(0,1044.3622)"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccssc" />
   </g>
 </svg>

@@ -13,7 +13,7 @@
    height="45"
    id="svg11145"
    version="1.1"
-   inkscape:version="0.91+devel r"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="bg_4_vu_bottom.svg"
    viewBox="0 0 3 45">
   <defs
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="14.173478"
-     inkscape:cx="19.65744"
-     inkscape:cy="24.949349"
+     inkscape:zoom="40.08865"
+     inkscape:cx="3.6179873"
+     inkscape:cy="21.902674"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -68,18 +68,12 @@
        height="0"
        x="9.3650351"
        y="1054.2761" />
-    <rect
-       ry="1.9999998"
-       rx="1.9999998"
-       y="-98.999992"
-       x="1020.3622"
-       height="97.999985"
-       width="20"
-       id="rect18201-4-43"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#484848;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
-       inkscape:export-filename="/root/Desktop/bg_6_slider.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       transform="rotate(90)" />
+    <path
+       style="color:#000000;fill:none;stroke:#484848;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 4.0000074,32.999983 -1,0 c -1.1079999,0 -1.9999998,-0.892 -1.9999998,-2 l 0,-16.000001 c 0,-1.107999 0.8919999,-1.999999 1.9999998,-1.999999 l 0.9999926,0"
+       id="path2988"
+       transform="translate(0,1007.3622)"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssssc" />
   </g>
 </svg>

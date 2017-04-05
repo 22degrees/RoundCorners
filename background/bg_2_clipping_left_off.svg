@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="24.531872"
+     inkscape:zoom="4.3366633"
      inkscape:cx="15.262216"
-     inkscape:cy="9.2680815"
+     inkscape:cy="0.4979727"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -35,7 +35,7 @@
      inkscape:bbox-nodes="true"
      inkscape:window-width="1680"
      inkscape:window-height="1028"
-     inkscape:window-x="-4"
+     inkscape:window-x="1676"
      inkscape:window-y="-3"
      inkscape:window-maximized="1">
     <inkscape:grid
@@ -70,15 +70,11 @@
        height="0"
        x="9.3650351"
        y="1054.2761" />
-    <rect
-       style="color:#000000;fill:none;stroke:#484848;stroke-width:2.00000024;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect19269"
-       width="20"
-       height="152"
-       x="24"
-       y="1030.3622"
-       rx="1.9999998"
-       ry="2" />
+    <path
+       style="color:#000000;fill:none;stroke:#484848;stroke-width:2.00000023999999987;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 24.000001 21.999985 L 24 2.9999826 C 24 1.8919826 24.892 0.99998262 26 0.99998262 L 26 0.99998262 L 33 0.99998262 "
+       id="path3002"
+       transform="translate(0,1029.3622)" />
     <rect
        style="color:#000000;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect19299"

@@ -14,7 +14,7 @@
    id="svg11145"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="bg_5_clipping_right_on.svg"
+   sodipodi:docname="bg_6_clipping_right_on.svg"
    viewBox="0 0 13 23">
   <defs
      id="defs11147" />
@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="14.609567"
-     inkscape:cx="22.921132"
-     inkscape:cy="22.233354"
+     inkscape:cx="-1.5149105"
+     inkscape:cy="18.879387"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -35,7 +35,7 @@
      inkscape:bbox-nodes="true"
      inkscape:window-width="1680"
      inkscape:window-height="1028"
-     inkscape:window-x="-4"
+     inkscape:window-x="1676"
      inkscape:window-y="-3"
      inkscape:window-maximized="1">
     <inkscape:grid
@@ -54,7 +54,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -70,16 +70,11 @@
        height="0"
        x="9.3650351"
        y="1054.2761" />
-    <rect
-       style="color:#000000;fill:none;stroke:#484848;stroke-width:2.00000024;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect19269"
-       width="20"
-       height="152"
-       x="1020.3622"
-       y="-12.000019"
-       rx="1.9999998"
-       ry="2"
-       transform="matrix(0,1,-1,0,0,0)" />
+    <path
+       style="color:#000000;fill:none;stroke:#484848;stroke-width:2.00000023999999987;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 12.000019 0.99998265 L 12.000019 8.9999829 C 12.000019 10.107983 11.108019 10.999983 10.000019 10.999983 L 1.000019 10.999983 "
+       id="path2994"
+       transform="translate(0,1029.3622)" />
     <rect
        style="color:#000000;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect19331"

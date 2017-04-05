@@ -14,7 +14,7 @@
    id="svg11145"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="bg_1_slider_bottom.svg">
+   sodipodi:docname="bg_1_vu_bottom.svg">
   <defs
      id="defs11147" />
   <sodipodi:namedview
@@ -24,19 +24,27 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="14.173478"
-     inkscape:cx="34.018266"
-     inkscape:cy="13.053892"
+     inkscape:zoom="40.08865"
+     inkscape:cx="37.589136"
+     inkscape:cy="4.6963105"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
      inkscape:window-width="1382"
      inkscape:window-height="731"
      inkscape:window-x="1920"
      inkscape:window-y="80"
-     inkscape:window-maximized="0" />
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2986"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
   <metadata
      id="metadata11150">
     <rdf:RDF>
@@ -45,7 +53,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -61,17 +69,12 @@
        height="0"
        x="9.3650351"
        y="1054.2761" />
-    <rect
-       ry="1.9999998"
-       rx="1.9999998"
-       y="953.36218"
-       x="24"
-       height="97.999985"
-       width="20"
-       id="rect18201-4-43"
+    <path
        style="color:#000000;fill:none;stroke:#484848;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       inkscape:export-filename="/root/Desktop/bg_6_slider.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       d="m 44,0 0,2.8631973e-5 C 44,1.1080285 43.108,2.0000284 42,2.0000284 l -16,0 c -1.108,0 -2,-0.8919999 -2,-1.999999768027 L 24,0"
+       id="path2996"
+       transform="translate(0,1049.3622)"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssssc" />
   </g>
 </svg>

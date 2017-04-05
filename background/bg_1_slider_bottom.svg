@@ -13,7 +13,7 @@
    height="8"
    id="svg11145"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="bg_1_slider_bottom.svg">
   <defs
      id="defs11147" />
@@ -24,19 +24,21 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="14.173478"
-     inkscape:cx="34.018266"
-     inkscape:cy="13.061955"
+     inkscape:zoom="40.08865"
+     inkscape:cx="36.108548"
+     inkscape:cy="5.4494183"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
-     inkscape:window-width="1382"
-     inkscape:window-height="731"
-     inkscape:window-x="1920"
-     inkscape:window-y="80"
-     inkscape:window-maximized="0" />
+     inkscape:window-width="1680"
+     inkscape:window-height="1028"
+     inkscape:window-x="1676"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1"
+     inkscape:snap-grids="true"
+     inkscape:bbox-paths="true" />
   <metadata
      id="metadata11150">
     <rdf:RDF>
@@ -61,17 +63,12 @@
        height="0"
        x="9.3650351"
        y="1054.2761" />
-    <rect
-       ry="1.9999998"
-       rx="1.9999998"
-       y="953.36218"
-       x="24"
-       height="97.999985"
-       width="20"
-       id="rect18201-4-43"
+    <path
        style="color:#000000;fill:none;stroke:#484848;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       inkscape:export-filename="/root/Desktop/bg_6_slider.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       d="m 44,1 0,3.9999676 c 0,1.1079999 -0.892,1.9999998 -2,1.9999998 l -16,0 c -1.108,0 -2,-0.8919999 -2,-1.9999998 L 24,1"
+       id="path2987"
+       transform="translate(0,1044.3622)"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssssc" />
   </g>
 </svg>

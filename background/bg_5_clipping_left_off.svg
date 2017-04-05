@@ -14,7 +14,7 @@
    id="svg11145"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="bg_4_clipping_left_off.svg"
+   sodipodi:docname="bg_5_clipping_left_off.svg"
    viewBox="0 0 23 22">
   <defs
      id="defs11147" />
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="24.780932"
-     inkscape:cx="32.914399"
-     inkscape:cy="17.001852"
+     inkscape:zoom="35.04553"
+     inkscape:cx="18.185332"
+     inkscape:cy="15.104825"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -35,7 +35,7 @@
      inkscape:bbox-nodes="true"
      inkscape:window-width="1680"
      inkscape:window-height="1028"
-     inkscape:window-x="-4"
+     inkscape:window-x="1676"
      inkscape:window-y="-3"
      inkscape:window-maximized="1">
     <inkscape:grid
@@ -54,7 +54,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -70,16 +70,11 @@
        height="0"
        x="9.3650351"
        y="1054.2761" />
-    <rect
-       style="color:#000000;fill:none;stroke:#484848;stroke-width:2.00000024;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect19269"
-       width="20"
-       height="152"
-       x="1043.3622"
-       y="-22.000019"
-       rx="1.9999998"
-       ry="2"
-       transform="matrix(0,1,-1,0,0,0)" />
+    <path
+       style="color:#000000;fill:none;stroke:#484848;stroke-width:2.00000023999999987;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 1.0000172 12.999983 L 20.000019 12.999983 C 21.108019 12.999983 22.000019 13.891983 22.000019 14.999982 L 22.000019 14.999982 L 22.000019 20.999982 "
+       id="path2997"
+       transform="translate(0,1030.3622)" />
     <rect
        style="color:#000000;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect19299"
@@ -126,9 +121,9 @@
        style="color:#000000;fill:#484848;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect11159-1-2"
        width="1.0000174"
-       height="10"
+       height="8.9999828"
        x="19.000017"
-       y="1029.3622" />
+       y="1030.3622" />
     <rect
        style="color:#000000;fill:#484848;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect11159-1-4-0"
