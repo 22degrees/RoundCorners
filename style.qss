@@ -263,6 +263,14 @@ QHeaderView::section:selected {
     color: #c6c6c6;
 }
 
+QHeaderView::up-arrow {
+	image: url(skin:/style/sort_up.svg);
+}
+
+QHeaderView::down-arrow {
+	image: url(skin:/style/sort_down.svg);
+}
+
 QTableView {
     border: none;
     padding: 0;
@@ -505,7 +513,7 @@ QTableView::indicator:unchecked {
     outline: none;
 }
 
-#DlgAutoDJ > QLabel#labelTransitionAppendix{
+#DlgAutoDJ > QLabel#labelTransitionAppendix {
     margin: 2px 0 13px 0;
     padding: 0 20px 0 0;
     border-top-right-radius: 5px;
