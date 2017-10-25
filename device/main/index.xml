@@ -10,7 +10,7 @@
         <ObjectName>Main</ObjectName>
         <Layout>vertical</Layout>
         <SizePolicy>me,me</SizePolicy>
-        <MinimumSize>170,-1</MinimumSize>
+        <MinimumSize>240,-1</MinimumSize>
         <MaximumSize>400,-1</MaximumSize>
         <Children>
 
