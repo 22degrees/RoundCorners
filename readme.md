@@ -54,7 +54,6 @@ TODO
 
 Copyright (C) 2015-2017 22degrees, https://github.com/22degrees
 
-
 ## License
 
 Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license.

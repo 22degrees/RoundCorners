@@ -1,7 +1,7 @@
 <!--
 "RoundCorners", Skin for Mixxx
 www.mixxx.org
-Copyright (C) 2015 22degrees, https://github.com/22degrees
+Copyright (C) 2015-2017 22degrees, https://github.com/22degrees
 
 This file is part of the "RoundCorners" skin for Mixxx.
 "RoundCorners" is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license.
