@@ -34,7 +34,7 @@
 
                             <Template src="skin:device/menubar/button.xml">
                                 <SetVariable name="ObjectName">Btn-btlr</SetVariable>
-                                <SetVariable name="Size">80me,23f</SetVariable>
+                                <SetVariable name="Size">120me,23f</SetVariable>
                                 <SetVariable name="icon">Visuals</SetVariable>
                                 <SetVariable name="control">[Visuals],show_row</SetVariable>
                                 <SetVariable name="text">VISUALS</SetVariable>
@@ -42,7 +42,7 @@
 
                             <Template src="skin:device/menubar/button.xml">
                                 <SetVariable name="ObjectName">Btn-bblr</SetVariable>
-                                <SetVariable name="Size">80me,23f</SetVariable>
+                                <SetVariable name="Size">120me,23f</SetVariable>
                                 <SetVariable name="icon">Settings</SetVariable>
                                 <SetVariable name="control">[Master],show_settings</SetVariable>
                                 <SetVariable name="text">SETTINGS</SetVariable>
@@ -60,7 +60,7 @@
 
                             <Template src="skin:device/menubar/button.xml">
                                 <SetVariable name="ObjectName">Btn-nbr-bisected</SetVariable>
-                                <SetVariable name="Size">80me,23f</SetVariable>
+                                <SetVariable name="Size">126me,23f</SetVariable>
                                 <SetVariable name="icon">Decks</SetVariable>
                                 <SetVariable name="control">[DeckRow1],show_row</SetVariable>
                                 <SetVariable name="text">DECK 1+2</SetVariable>
@@ -68,7 +68,7 @@
 
                             <Template src="skin:device/menubar/button.xml">
                                 <SetVariable name="ObjectName">Btn-nbr-bisected</SetVariable>
-                                <SetVariable name="Size">80me,23f</SetVariable>
+                                <SetVariable name="Size">126me,23f</SetVariable>
                                 <SetVariable name="icon">Mixer</SetVariable>
                                 <SetVariable name="control">[Mixer1],show_mixer</SetVariable>
                                 <SetVariable name="text">MIXER 1</SetVariable>
@@ -90,7 +90,7 @@
 
                             <Template src="skin:device/menubar/button.xml">
                                 <SetVariable name="ObjectName">Btn-nbr</SetVariable>
-                                <SetVariable name="Size">80me,45f</SetVariable>
+                                <SetVariable name="Size">126me,45f</SetVariable>
                                 <SetVariable name="icon">Decks</SetVariable>
                                 <SetVariable name="control">[DeckRow1],show_row</SetVariable>
                                 <SetVariable name="text">DECK 1+2</SetVariable>
@@ -115,7 +115,7 @@
 
                             <Template src="skin:device/menubar/button.xml">
                                 <SetVariable name="ObjectName">Btn-nbr-bisected</SetVariable>
-                                <SetVariable name="Size">20me,23f</SetVariable>
+                                <SetVariable name="Size">126me,23f</SetVariable>
                                 <SetVariable name="icon">Decks</SetVariable>
                                 <SetVariable name="control">[DeckRow2],show_row</SetVariable>
                                 <SetVariable name="text">DECK 3+4</SetVariable>
@@ -123,7 +123,7 @@
 
                             <Template src="skin:device/menubar/button.xml">
                                 <SetVariable name="ObjectName">Btn-nbr-bisected</SetVariable>
-                                <SetVariable name="Size">20me,23f</SetVariable>
+                                <SetVariable name="Size">126me,23f</SetVariable>
                                 <SetVariable name="icon">Mixer</SetVariable>
                                 <SetVariable name="control">[Mixer2],show_mixer</SetVariable>
                                 <SetVariable name="text">MIXER 2</SetVariable>
@@ -145,7 +145,7 @@
 
                             <Template src="skin:device/menubar/button.xml">
                                 <SetVariable name="ObjectName">Btn-nbr</SetVariable>
-                                <SetVariable name="Size">80me,45f</SetVariable>
+                                <SetVariable name="Size">126me,45f</SetVariable>
                                 <SetVariable name="icon">Decks</SetVariable>
                                 <SetVariable name="control">[DeckRow2],show_row</SetVariable>
                                 <SetVariable name="text">DECK 3+4</SetVariable>
@@ -170,7 +170,7 @@
 
                             <Template src="skin:device/menubar/button.xml">
                                 <SetVariable name="ObjectName">Btn-nbr-bisected</SetVariable>
-                                <SetVariable name="Size">80me,23f</SetVariable>
+                                <SetVariable name="Size">126me,23f</SetVariable>
                                 <SetVariable name="icon">Samplers</SetVariable>
                                 <SetVariable name="control">[Samplers],show_samplers</SetVariable>
                                 <SetVariable name="text">SAMPLERS</SetVariable>
@@ -178,7 +178,7 @@
 
                             <Template src="skin:device/menubar/button.xml">
                                 <SetVariable name="ObjectName">Btn-nbr-bisected</SetVariable>
-                                <SetVariable name="Size">80me,23f</SetVariable>
+                                <SetVariable name="Size">126me,23f</SetVariable>
                                 <SetVariable name="icon">Effects</SetVariable>
                                 <SetVariable name="control">[EffectRack1],show</SetVariable>
                                 <SetVariable name="text">EFFECTS</SetVariable>
@@ -196,7 +196,7 @@
 
                             <Template src="skin:device/menubar/button.xml">
                                 <SetVariable name="ObjectName">Btn-nbr-bisected</SetVariable>
-                                <SetVariable name="Size">80me,23f</SetVariable>
+                                <SetVariable name="Size">160me,23f</SetVariable>
                                 <SetVariable name="icon">Main</SetVariable>
                                 <SetVariable name="control">[Main],show_main</SetVariable>
                                 <SetVariable name="text">MAIN</SetVariable>
@@ -204,7 +204,7 @@
 
                             <Template src="skin:device/menubar/button.xml">
                                 <SetVariable name="ObjectName">Btn-nbr-bisected</SetVariable>
-                                <SetVariable name="Size">80me,23f</SetVariable>
+                                <SetVariable name="Size">160me,23f</SetVariable>
                                 <SetVariable name="icon">Internalclock</SetVariable>
                                 <SetVariable name="control">[InternalClock],show_internalclock</SetVariable>
                                 <SetVariable name="text">INTERNAL CLOCK</SetVariable>
@@ -222,7 +222,7 @@
 
                             <Template src="skin:device/menubar/button.xml">
                                 <SetVariable name="ObjectName">Btn-nbr-bisected</SetVariable>
-                                <SetVariable name="Size">80me,23f</SetVariable>
+                                <SetVariable name="Size">144me,23f</SetVariable>
                                 <SetVariable name="icon">Headphones</SetVariable>
                                 <SetVariable name="control">[Headphone],show_headphone</SetVariable>
                                 <SetVariable name="text">HEADPHONE</SetVariable>
@@ -230,7 +230,7 @@
 
                             <Template src="skin:device/menubar/button.xml">
                                 <SetVariable name="ObjectName">Btn-nbr-bisected</SetVariable>
-                                <SetVariable name="Size">80me,23f</SetVariable>
+                                <SetVariable name="Size">144me,23f</SetVariable>
                                 <SetVariable name="icon">Clock</SetVariable>
                                 <SetVariable name="control">[Clock],show_clock</SetVariable>
                                 <SetVariable name="text">CLOCK</SetVariable>
@@ -248,7 +248,7 @@
 
                             <Template src="skin:device/menubar/button.xml">
                                 <SetVariable name="ObjectName">Btn-btrr</SetVariable>
-                                <SetVariable name="Size">100me,23f</SetVariable>
+                                <SetVariable name="Size">180me,23f</SetVariable>
                                 <SetVariable name="icon">Vinylcontrols</SetVariable>
                                 <SetVariable name="control">[VinylControl],show_vinylcontrol</SetVariable>
                                 <SetVariable name="text">VINYL CONTROLS</SetVariable>
@@ -256,7 +256,7 @@
 
                             <Template src="skin:device/menubar/button.xml">
                                 <SetVariable name="ObjectName">Btn-bbrr</SetVariable>
-                                <SetVariable name="Size">100me,23f</SetVariable>
+                                <SetVariable name="Size">180me,23f</SetVariable>
                                 <SetVariable name="icon">Microphones</SetVariable>
                                 <SetVariable name="control">[Microphone],show_microphone</SetVariable>
                                 <SetVariable name="text">MICROPHONES</SetVariable>
