@@ -1050,6 +1050,81 @@ QScrollBar::sub-page:vertical {
    ========================================================================== */
 
 /**
+ * Menubar Icons
+ */
+ #MenuBar #Visuals #Btn-btlr {
+    background-image: url(skin:button/visuals.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+ #MenuBar #Settings #Btn-bblr {
+    background-image: url(skin:button/settings.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#MenuBar #Decks #Btn-nbr-bisected, #MenuBar #Decks #Btn-nbr {
+    background-image: url(skin:button/decks.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#MenuBar #Mixer #Btn-nbr-bisected {
+    background-image: url(skin:button/mixer.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#MenuBar #Samplers #Btn-nbr-bisected {
+    background-image: url(skin:button/samplers.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#MenuBar #Effects #Btn-nbr-bisected {
+    background-image: url(skin:button/effects.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#MenuBar #Main #Btn-nbr-bisected {
+    background-image: url(skin:button/main.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#MenuBar #Internalclock #Btn-nbr-bisected {
+    background-image: url(skin:button/internalclock.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#MenuBar #Headphones #Btn-nbr-bisected {
+    background-image: url(skin:button/headphones.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#MenuBar #Clock #Btn-nbr-bisected {
+    background-image: url(skin:button/clock.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#MenuBar #Vinylcontrols #Btn-btrr {
+    background-image: url(skin:button/vinylcontrols.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#MenuBar #Microphones #Btn-bbrr {
+    background-image: url(skin:button/microphones.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+/**
  * General Button Styles
  */
 #Btn-br {
