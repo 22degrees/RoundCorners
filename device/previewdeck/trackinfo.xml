@@ -28,6 +28,7 @@
             </TrackProperty>
 
             <Label>
+                <ObjectName>Hyphen</ObjectName>
                 <Text> - </Text>
             </Label>
 

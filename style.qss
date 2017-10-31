@@ -41,7 +41,7 @@ QMenu::separator {
 /* TOOLTIP
    ========================================================================== */
 
-QToolTip { 
+QToolTip {
     background-color: #121212;
     border: 1px solid #000000;
     font-size: 14px;
@@ -296,7 +296,7 @@ QTableView::item:selected:!active {
     outline: none;
 }
 
-QTableView::item:!selected { 
+QTableView::item:!selected {
     background: transparent;
     outline: none;
 }
@@ -332,13 +332,13 @@ QTableView::indicator:unchecked {
 }
 
 #LibraryPreviewButton:checked {
-    image: url(skin:/style/style_library_preview_pause.png);   
+    image: url(skin:/style/style_library_preview_pause.png);
     outline: none;
     border: none;
 }
 
 #LibraryPreviewButton:!checked {
-    image: url(skin:/style/style_library_preview_play.png);   
+    image: url(skin:/style/style_library_preview_play.png);
     outline: none;
     border: none;
 }
@@ -805,6 +805,7 @@ QScrollBar::sub-page:vertical {
 
 #Sampler1 #Artist,
 #Sampler1 #Title,
+#Sampler1 #Hyphen,
 #EffectUnit1 #EffectChainName {
     color: #d4ddd7;
     font-size: 14px;
@@ -819,6 +820,7 @@ QScrollBar::sub-page:vertical {
 
 #Sampler2 #Artist,
 #Sampler2 #Title,
+#Sampler2 #Hyphen,
 #EffectUnit2 #EffectChainName {
     color: #9ab0b5;
     font-size: 14px;
@@ -833,6 +835,7 @@ QScrollBar::sub-page:vertical {
 
 #Sampler3 #Artist,
 #Sampler3 #Title,
+#Sampler3 #Hyphen,
 #EffectUnit3 #EffectChainName {
     color: #918b74;
     font-size: 14px;
@@ -847,6 +850,7 @@ QScrollBar::sub-page:vertical {
 
 #Sampler4 #Artist,
 #Sampler4 #Title,
+#Sampler4 #Hyphen,
 #EffectUnit4 #EffectChainName {
     color: #776a54;
     font-size: 14px;
@@ -882,7 +886,8 @@ QScrollBar::sub-page:vertical {
 
 
 #PreviewDeck #Artist,
-#PreviewDeck #Title {
+#PreviewDeck #Title,
+#PreviewDeck #Hyphen {
     color: #d4ddd7;
     font-size: 16px;
 }
@@ -1208,7 +1213,7 @@ QScrollBar::sub-page:vertical {
     background-color: #484848;
     color: #000000;
     margin: 0;
-    font-size: 13px; 
+    font-size: 13px;
 }
 
 #Btn-btr {
@@ -1220,7 +1225,7 @@ QScrollBar::sub-page:vertical {
     background-color: #484848;
     color: #000000;
     margin: 0 0 1px 0;
-    font-size: 13px; 
+    font-size: 13px;
 }
 
 #Btn-bbr {
@@ -1355,7 +1360,7 @@ QScrollBar::sub-page:vertical {
 #MenuBar #Btn-bblr[value="1"],
 #MenuBar #Btn-btrr[value="1"],
 #MenuBar #Btn-bbrr[value="1"],
-#MenuBar #Btn-nbr-bisected[value="1"] { 
+#MenuBar #Btn-nbr-bisected[value="1"] {
     background-color: #a4aba6;
 }
 
