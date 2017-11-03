@@ -24,8 +24,6 @@
                         <ObjectName>Rectangle</ObjectName>
                         <Layout>vertical</Layout>
                         <SizePolicy>me,me</SizePolicy>
-                        <MinimumSize>-1,-1</MinimumSize>
-                        <MaximumSize>-1,-1</MaximumSize>
                         <Children>
 
                             <Template src="skin:device/effect/info.xml"/>
@@ -33,8 +31,6 @@
                             <WidgetGroup>
                                 <Layout>horizontal</Layout>
                                 <SizePolicy>me,me</SizePolicy>
-                                <MinimumSize>-1,-1</MinimumSize>
-                                <MaximumSize>-1,-1</MaximumSize>
                                 <Children>
 
                                     <WidgetGroup><!-- margin-left -->

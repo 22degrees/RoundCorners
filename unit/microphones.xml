@@ -37,7 +37,6 @@
                    <WidgetGroup>
                         <Layout>horizontal</Layout>
                         <MinimumSize>1440,-1</MinimumSize>
-                        <MaximumSize>-1,-1</MaximumSize>
                         <Children>
 
                             <Template src="skin:unit/microphones_lg.xml"/>
