@@ -207,7 +207,7 @@
 
                 <Template src="skin:unit/vinylcontrols.xml"/>
 
-                <Template src="skin:unit/microphones.xml"/>
+                <Template src="skin:unit/microphone/index.xml"/>
 
                 <Template src="skin:unit/sampler/index.xml">
                     <SetVariable name="Number1">1</SetVariable>
