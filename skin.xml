@@ -102,14 +102,14 @@
     <Layout>vertical</Layout>
     <Children>
 
-        <Template src="skin:unit/menubar.xml"/>
+        <Template src="skin:unit/menubar/index.xml"/>
 
         <WidgetGroup>
             <SizePolicy>me,max</SizePolicy>
             <Layout>vertical</Layout>
             <Children>
 
-                <Template src="skin:unit/waveforms.xml">
+                <Template src="skin:unit/waveform/index.xml">
                     <SetVariable name="Number1">1</SetVariable>
                     <SetVariable name="Widget1">[Deck1]</SetVariable>
                     <SetVariable name="Group1">[Channel1]</SetVariable>
@@ -151,7 +151,7 @@
                     <SetVariable name="MarkRangeDisabledColor4">#595546</SetVariable>
                 </Template>
 
-                <Template src="skin:unit/decks.xml">
+                <Template src="skin:unit/deck/index.xml">
                     <SetVariable name="Number1">1</SetVariable>
                     <SetVariable name="Widget1">[Deck1]</SetVariable>
                     <SetVariable name="Group1">[Channel1]</SetVariable>
@@ -178,7 +178,7 @@
                     <SetVariable name="Widget4">[DeckRow1]</SetVariable>
                 </Template>
 
-                <Template src="skin:unit/decks.xml">
+                <Template src="skin:unit/deck/index.xml">
                     <SetVariable name="Number1">3</SetVariable>
                     <SetVariable name="Widget1">[Deck3]</SetVariable>
                     <SetVariable name="Group1">[Channel3]</SetVariable>
@@ -205,7 +205,7 @@
                     <SetVariable name="Widget4">[DeckRow2]</SetVariable>
                 </Template>
 
-                <Template src="skin:unit/vinylcontrols.xml"/>
+                <Template src="skin:unit/vinylcontrol/index.xml"/>
 
                 <Template src="skin:unit/microphone/index.xml"/>
 
@@ -261,7 +261,7 @@
             </Connection>
         </WidgetGroup>
 
-        <Template src="skin:unit/library.xml"/>
+        <Template src="skin:unit/library/index.xml"/>
 
     </Children>
 </skin>
