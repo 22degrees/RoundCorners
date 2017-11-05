@@ -374,6 +374,10 @@
                             <ConfigKey>[Shoutcast],enabled</ConfigKey>
                             <ButtonState>LeftButton</ButtonState>
                         </Connection>
+                        <Connection>
+                            <ConfigKey>[Shoutcast],status</ConfigKey>
+                            <ConnectValueFromWidget>false</ConnectValueFromWidget>
+                        </Connection>
                     </PushButton>
 
                     <WidgetGroup><!-- margin-right -->
