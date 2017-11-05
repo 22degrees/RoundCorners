@@ -1399,7 +1399,7 @@ QScrollBar::sub-page:vertical {
 }
 
 /**
- * Master/Recording
+ * Main/Recording
  */
 #Main #Btn-br[value="2"] {
     background-color: #a4aba6;
