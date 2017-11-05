@@ -355,6 +355,32 @@
                         </Connection>
                     </WidgetGroup>
 
+                    <PushButton>
+                        <ObjectName>Btn-br</ObjectName>
+                        <TooltipId>broadcast_enabled</TooltipId>
+                        <Size>50f,45f</Size>
+                        <NumberStates>2</NumberStates>
+                        <State>
+                            <!-- BROADCAST OFF -->
+                            <Number>0</Number>
+                            <Text>AIR</Text>
+                        </State>
+                        <State>
+                            <!-- BROADCAST ON-->
+                            <Number>1</Number>
+                            <Text>AIR</Text>
+                        </State>
+                        <Connection>
+                            <ConfigKey>[Shoutcast],enabled</ConfigKey>
+                            <ButtonState>LeftButton</ButtonState>
+                        </Connection>
+                    </PushButton>
+
+                    <WidgetGroup><!-- margin-right -->
+                        <MinimumSize>10,-1</MinimumSize>
+                        <MaximumSize>10,-1</MaximumSize>
+                    </WidgetGroup>
+
                 </Children>
             </WidgetGroup>
 
