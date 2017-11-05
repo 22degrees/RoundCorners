@@ -1401,11 +1401,11 @@ QScrollBar::sub-page:vertical {
 /**
  * Master/Recording
  */
-#Master #Btn-br[value="2"] {
+#Main #Btn-br[value="2"] {
     background-color: #a4aba6;
 }
 
-#Master #Btn-br[value="2"]:hover {
+#Main #Btn-br[value="2"]:hover {
     background-color: #737875;
 }
 
