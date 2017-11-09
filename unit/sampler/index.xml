@@ -9,7 +9,7 @@
     <WidgetGroup>
         <ObjectName>Row</ObjectName>
         <Layout>horizontal</Layout>
-        <SizePolicy>me,me</SizePolicy>
+        <SizePolicy>me,max</SizePolicy>
         <Children>
 
             <SizeAwareStack>
