@@ -26,8 +26,8 @@
                         <ObjectName>Rectangle</ObjectName>
                         <Layout>horizontal</Layout>
                         <MinimumSize>-1,220</MinimumSize>
-                        <MaximumSize>-1,440</MaximumSize>
-                        <SizePolicy>me,min</SizePolicy>
+                        <MaximumSize>-1,220</MaximumSize>
+                        <SizePolicy>me,f</SizePolicy>
                         <Children>
 
                             <WidgetGroup><!-- margin-left -->
