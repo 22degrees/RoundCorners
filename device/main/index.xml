@@ -10,8 +10,8 @@
         <ObjectName>Main</ObjectName>
         <Layout>vertical</Layout>
         <SizePolicy>me,me</SizePolicy>
-        <MinimumSize>240,-1</MinimumSize>
-        <MaximumSize>400,-1</MaximumSize>
+        <MinimumSize>300,-1</MinimumSize>
+        <MaximumSize>460,-1</MaximumSize>
         <Children>
 
             <Template src="skin:device/main/border_top.xml"/>
