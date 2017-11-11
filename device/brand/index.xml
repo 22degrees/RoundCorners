@@ -27,11 +27,28 @@
 
                     <WidgetGroup>
                         <ObjectName>Logo</ObjectName>
+                        <Layout>horizontal</Layout>
                         <Size>130f,45f</Size>
                         <Children>
 
+                            <VuMeter>
+                                <ObjectName>Latency</ObjectName>
+                                <TooltipId>audio_latency_usage</TooltipId>
+                                <Size>65f,45f</Size>
+                                <PathVu>background/bg_7_vu_on.svg</PathVu>
+                                <PathBack>background/bg_7_vu_off.svg</PathBack>
+                                <Horizontal>true</Horizontal>
+                                <PeakHoldSize>2</PeakHoldSize>
+                                <PeakHoldTime>1000</PeakHoldTime>
+                                <PeakFallTime>1000</PeakFallTime>
+                                <PeakFallStep>1</PeakFallStep>
+                                <Connection>
+                                        <ConfigKey>[Master],audio_latency_usage</ConfigKey>
+                                </Connection>
+                            </VuMeter>
+
                             <Label>
-                                <Size>130f,45f</Size>
+                                <Size>50f,45f</Size>
                                 <ObjectName>Version</ObjectName>
                                 <Text>v.2.1.0</Text>
                                 <Alignment>right</Alignment>
