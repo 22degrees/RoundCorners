@@ -1,0 +1,46 @@
+<!DOCTYPE template>
+<Template>
+
+    <!--
+    **************************************************************************************
+    SCREEN INDEX BEGIN
+    **************************************************************************************
+    -->
+    <WidgetStack>
+        <!--
+        <NextControl>[Master],maximize_library</NextControl>
+        <PrevControl>[Channel1],hotcuepage_prev</PrevControl> 
+        -->
+        <Children>
+                
+            <WidgetGroup>
+                <MinimumSize>1024,-1</MinimumSize>
+                <SizePolicy>me,me</SizePolicy>
+                <Layout>vertical</Layout>
+                <Children>
+
+                    <Template src="skin:screen/first.xml"/>
+
+                </Children>
+            </WidgetGroup>
+            
+            <WidgetGroup trigger="[Master],maximize_library">
+                <MinimumSize>1024,-1</MinimumSize>
+                <SizePolicy>me,me</SizePolicy>
+                <Layout>vertical</Layout>
+                <Children>
+
+                    <Template src="skin:screen/second.xml"/>
+
+                </Children>
+            </WidgetGroup>
+
+        </Children>
+    </WidgetStack>
+    <!--
+    **************************************************************************************
+    SCREEN INDEX END
+    **************************************************************************************
+    -->
+
+</Template>
