@@ -86,7 +86,7 @@
             <attribute persist="true" config_key="[EffectUnit],show_controls">1</attribute>
             <attribute persist="true" config_key="[EffectUnit],show_chain">0</attribute>
             <!-- Library/Coverart -->
-            <attribute persist="true" config_key="[Library],show_minimized">1</attribute>
+            <attribute persist="true" config_key="[Master],show_maximized">0</attribute>
             <attribute persist="true" config_key="[Library],show_coverart">0</attribute>
             <!-- Previewdeck -->
             <attribute persist="true" config_key="[Master],num_preview_decks">1</attribute>
