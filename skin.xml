@@ -102,6 +102,13 @@
     <Layout>vertical</Layout>
     <Children>
 
+        <SingletonDefinition>
+            <ObjectName>LibrarySingleton</ObjectName>
+            <Children>
+                <Template src="skin:unit/library/index.xml"/>
+            </Children>
+        </SingletonDefinition>
+
         <Template src="skin:screen/index.xml"/>
 
     </Children>

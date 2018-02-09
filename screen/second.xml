@@ -6,7 +6,9 @@
     SECOND SCREEN BEGIN
     **************************************************************************************
     -->
-    <Template src="skin:unit/library/index.xml"/>
+    <SingletonContainer>
+        <ObjectName>LibrarySingleton</ObjectName>
+    </SingletonContainer>
     <!--
     **************************************************************************************
     SECOND SCREEN END

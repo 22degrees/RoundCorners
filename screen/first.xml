@@ -150,7 +150,9 @@
         <SetVariable name="EffectRackNumber">1</SetVariable>
     </Template>
 
-    <Template src="skin:unit/library/index.xml"/>
+    <SingletonContainer>
+        <ObjectName>LibrarySingleton</ObjectName>
+    </SingletonContainer>
     <!--
     **************************************************************************************
     FIRST SCREEN END
