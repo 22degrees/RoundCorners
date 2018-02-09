@@ -52,7 +52,7 @@ C:\Program Files\Mixxx\skins
 TODO
 
 ## Credits
-Copyright (C) 2015-2017 [22degrees](https://github.com/22degrees)
+Copyright (C) 2015-2018 [22degrees](https://github.com/22degrees)
 
 ## License
 Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license.  
