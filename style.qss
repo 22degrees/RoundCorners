@@ -77,6 +77,18 @@ QToolTip {
     width: 0;
 }
 
+/* PASSTHROUGH-BOX
+   ========================================================================== */
+
+#OuterPassthroughBox {
+    border: 0;
+    border-radius: 8px;
+    background-color: #121212;
+    margin: 2px 0 2px 0;
+    padding: 0;
+    height: 0;
+    width: 0;
+}
 
 /* SEARCHBAR
    ========================================================================== */

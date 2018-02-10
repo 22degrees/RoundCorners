@@ -13,6 +13,8 @@
 
             <Template src="skin:device/deck/config.xml"/>
 
+            <Template src="skin:device/deck/passthrough.xml"/>
+
             <WidgetGroup>
                 <ObjectName>Deck<Variable name="Number"/></ObjectName>
                 <Layout>vertical</Layout>
