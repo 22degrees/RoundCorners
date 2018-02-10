@@ -1,14 +1,6 @@
 <!DOCTYPE template>
 <Template>
 
-    <WidgetGroup>
-        <ObjectName>OuterConfigBox</ObjectName>
-        <Layout>horizontal</Layout>
-        <SizePolicy>me,me</SizePolicy>
-        <Connection>
-            <ConfigKey>[Master],show_settings</ConfigKey>
-            <BindProperty>visible</BindProperty>
-        </Connection>
-    </WidgetGroup>
+    <Template src="skin:shared/emptyconfig.xml"/>
 
 </Template>

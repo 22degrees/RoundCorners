@@ -6,7 +6,21 @@
     SEARCH DEVICE BEGIN
     **************************************************************************************
     -->
-    <SearchBox></SearchBox>
+    <WidgetGroup>
+        <Layout>stacked</Layout>
+        <Size>-1,40</Size>
+        <SizePolicy>e,f</SizePolicy>
+        <Children>
+
+            <!-- Hack for BUG https://github.com/22degrees/RoundCorners/issues/4 -->
+            <Template src="skin:shared/confighack.xml"/>
+
+            <Template src="skin:device/search/config.xml"/>
+
+            <SearchBox></SearchBox>
+
+        </Children>
+    </WidgetGroup>
     <!--
     **************************************************************************************
     SEARCH DEVICE END

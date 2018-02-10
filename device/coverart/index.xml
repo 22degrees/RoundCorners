@@ -12,34 +12,54 @@
             <MaximumSize>-1,220</MaximumSize>
             <Children>
 
-            <Template src="skin:device/coverart/border_top.xml"/>
-
                 <WidgetGroup>
-                    <ObjectName>Rectangle</ObjectName>
-                    <Layout>horizontal</Layout>
-
+                    <Layout>stacked</Layout>
+                    <SizePolicy>me,me</SizePolicy>
                     <Children>
 
-                        <WidgetGroup>
-                            <MinimumSize>10,-1</MinimumSize>
-                            <MaximumSize>10,-1</MaximumSize>
-                        </WidgetGroup>
+                        <!-- Hack for BUG https://github.com/22degrees/RoundCorners/issues/4 -->
+                        <Template src="skin:shared/confighack.xml"/>
 
-                        <CoverArt>
-                            <ObjectName>Rectangle</ObjectName>
-                            <TooltipId>coverart</TooltipId>
-                            <SizePolicy>me,me</SizePolicy>
-                        </CoverArt>
+                        <Template src="skin:device/coverart/config.xml"/>
 
                         <WidgetGroup>
-                            <MinimumSize>10,-1</MinimumSize>
-                            <MaximumSize>10,-1</MaximumSize>
+                            <Layout>vertical</Layout>
+                            <Children>
+
+                                <Template src="skin:device/coverart/border_top.xml"/>
+
+                                    <WidgetGroup>
+                                        <ObjectName>Rectangle</ObjectName>
+                                        <Layout>horizontal</Layout>
+
+                                        <Children>
+
+                                            <WidgetGroup>
+                                                <MinimumSize>10,-1</MinimumSize>
+                                                <MaximumSize>10,-1</MaximumSize>
+                                            </WidgetGroup>
+
+                                            <CoverArt>
+                                                <ObjectName>Rectangle</ObjectName>
+                                                <TooltipId>coverart</TooltipId>
+                                                <SizePolicy>me,me</SizePolicy>
+                                            </CoverArt>
+
+                                            <WidgetGroup>
+                                                <MinimumSize>10,-1</MinimumSize>
+                                                <MaximumSize>10,-1</MaximumSize>
+                                            </WidgetGroup>
+
+                                        </Children>
+                                    </WidgetGroup>
+
+                                <Template src="skin:device/coverart/border_bottom.xml"/>
+
+                            </Children>
                         </WidgetGroup>
 
                     </Children>
                 </WidgetGroup>
-
-            <Template src="skin:device/coverart/border_bottom.xml"/>
 
             </Children>
             <Connection>
