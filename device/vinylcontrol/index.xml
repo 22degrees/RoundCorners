@@ -22,7 +22,7 @@
 
             <!-- Hack for BUG https://github.com/22degrees/RoundCorners/issues/4 -->
             <Template src="skin:shared/confighack.xml"/>
-            
+
             <Template src="skin:device/vinylcontrol/config.xml"/>
 
             <WidgetGroup>
