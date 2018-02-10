@@ -9,6 +9,9 @@
     <WidgetGroup>
         <ObjectName>Row</ObjectName>
         <Layout>horizontal</Layout>
+        <MinimumSize>-1,244</MinimumSize>
+        <MaximumSize>-1,244</MaximumSize>
+        <SizePolicy>me,f</SizePolicy>
         <Children>
 
             <WidgetGroup><!-- margin-left -->
@@ -24,7 +27,7 @@
                     <!-- Hack for BUG https://github.com/22degrees/RoundCorners/issues/4 -->
                     <Template src="skin:shared/confighack.xml"/>
 
-                    <Template src="skin:device/treeview/config.xml"/>
+                    <Template src="skin:device/waveform/config.xml"/>
 
                     <WidgetGroup>
                         <Layout>vertical</Layout>
