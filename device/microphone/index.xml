@@ -11,6 +11,9 @@
         <SizePolicy>me,me</SizePolicy>
         <Children>
 
+            <!-- Hack for BUG https://github.com/22degrees/RoundCorners/issues/4 -->
+            <Template src="skin:shared/confighack.xml"/>
+            
             <Template src="skin:device/microphone/config.xml"/>
 
             <WidgetGroup>
