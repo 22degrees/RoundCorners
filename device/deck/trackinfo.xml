@@ -19,7 +19,7 @@
 
             <WidgetGroup>
                 <Layout>vertical</Layout>
-                <Size>80f,36f</Size>
+                <Size>30f,36f</Size>
                 <Children>
 
                     <Label>
@@ -28,6 +28,40 @@
                         <Alignment>center</Alignment>
                         <Text><Variable name="Number"/></Text>
                     </Label>
+
+                    <WidgetGroup>
+                        <Size>30f,13f</Size>
+                    </WidgetGroup>
+
+                </Children>
+            </WidgetGroup>
+
+            <WidgetGroup><!-- spacer -->
+                <Layout>horizontal</Layout>
+                <Size>10f,36f</Size>
+            </WidgetGroup>
+
+            <WidgetGroup>
+                <Layout>vertical</Layout>
+                <Size>40f,36f</Size>
+                <Children>
+
+                    <PushButton>
+                        <ObjectName>Btn-br</ObjectName>
+                        <Size>40f,23</Size>
+                        <NumberStates>2</NumberStates>
+                        <State>
+                            <Number>0</Number>
+                            <Text>EDIT</Text>
+                        </State>
+                        <State>
+                            <Number>1</Number>
+                            <Text>EDIT</Text>
+                        </State>
+                        <Connection>
+                            <ConfigKey><Variable name="Widget"/>,show_editmode</ConfigKey>
+                        </Connection>
+                    </PushButton>
 
                     <WidgetGroup>
                         <Size>80f,13f</Size>
