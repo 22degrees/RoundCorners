@@ -336,21 +336,21 @@ QTableView::indicator:unchecked {
  * Preview Column
  */
 #LibraryPreviewButton {
-    width: 23px;
-    height: 14px;
-    background-color: transparent;
+    width: 12px;
+    height: 12px;
     border: none;
+    background: transparent;
     outline: none;
 }
 
 #LibraryPreviewButton:checked {
-    image: url(skin:/style/style_library_preview_pause.png);
+    image: url(skin:/style/preview_pause.png);
     outline: none;
     border: none;
 }
 
 #LibraryPreviewButton:!checked {
-    image: url(skin:/style/style_library_preview_play.png);
+    image: url(skin:/style/preview_play.png);
     outline: none;
     border: none;
 }
