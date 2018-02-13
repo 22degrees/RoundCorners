@@ -16,6 +16,7 @@ A 4-deck full-featured and resizable skin for [MIXXX](https://github.com/mixxxdj
 - Advanced Markers (HotCue/FadeIn/FadeOut...)
 - Large UI elements for touch devices (untested)
 - Each device has its own settings menu
+- Each deck can switch on demand in EditTrackMode respectively EditBeatGridMode
 - Modular folder and file structure for easy customization
 - Styled with vector graphics and qss/css
 - ...
