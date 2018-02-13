@@ -2221,7 +2221,8 @@ QScrollBar::sub-page:vertical {
 
 #TransportRow,
 #HotCueRow,
-#LoopRow {
+#LoopRow,
+#BeatGridRow {
     border: 0;
     border-radius: 0;
     background-color: #121212;

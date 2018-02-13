@@ -6,7 +6,7 @@
     EDITDECK3 SCREEN BEGIN
     **************************************************************************************
     -->
-    <Template src="skin:unit/singledeck/index.xml">
+    <Template src="skin:unit/editdeck/index.xml">
         <SetVariable name="Number1">3</SetVariable>
         <SetVariable name="Widget1">[Deck3]</SetVariable>
         <SetVariable name="Group1">[Channel3]</SetVariable>
