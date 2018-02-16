@@ -14,9 +14,9 @@
         <SignalHighColor><Variable name="SignalHighColor"/></SignalHighColor>
         <SignalMidColor><Variable name="SignalMidColor"/></SignalMidColor>
         <SignalLowColor><Variable name="SignalLowColor"/></SignalLowColor>
-        <!-- <SignalRGBHighColor><Variable name="SignalHighColor"/></SignalRGBHighColor>
+        <SignalRGBHighColor><Variable name="SignalHighColor"/></SignalRGBHighColor>
         <SignalRGBMidColor><Variable name="SignalMidColor"/></SignalRGBMidColor>
-        <SignalRGBLowColor><Variable name="SignalLowColor"/></SignalRGBLowColor> -->
+        <SignalRGBLowColor><Variable name="SignalLowColor"/></SignalRGBLowColor>
         <PlayedOverlayColor>#c8121212</PlayedOverlayColor>
         <SignalColor><Variable name="SignalHighColor"/></SignalColor>
         <PlayPosColor>#ffffff</PlayPosColor>
