@@ -60,13 +60,6 @@
                                     </Template>
 
                                 </Children>
-                                <Connection>
-                                    <ConfigKey><Variable name="Group"/>,passthrough</ConfigKey>
-                                    <Transform>
-                                        <Not/>
-                                    </Transform>
-                                    <BindProperty>visible</BindProperty>
-                                </Connection>
                             </WidgetGroup>
 
                             <Template src="skin:device/deck/pitch.xml"/>
