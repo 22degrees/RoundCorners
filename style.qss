@@ -513,6 +513,12 @@ QTableView::indicator:unchecked {
     outline: none;
 }
 
+#DlgAutoDJ > QSpinBox::up-arrow {
+    image: url(skin:/style/arrow_up.svg);
+    width: 7px;
+    height: 7px;
+}
+
 #DlgAutoDJ > QSpinBox#spinBoxTransition::down-button {
     padding: 0;
     margin: 0;
@@ -523,6 +529,12 @@ QTableView::indicator:unchecked {
     border-left: 1px solid #121212;
     border-right: 1px solid #121212;
     outline: none;
+}
+
+#DlgAutoDJ > QSpinBox::down-arrow {
+    image: url(skin:/style/arrow_down.svg);
+    width: 7px;
+    height: 7px;
 }
 
 #DlgAutoDJ > QLabel#labelTransitionAppendix {
