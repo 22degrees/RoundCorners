@@ -416,6 +416,8 @@ QTableView::indicator:unchecked {
 #DlgMissing > QPushButton:hover,
 #DlgHidden > QPushButton:hover,
 #DlgAutoDJ > QPushButton:hover,
+#DlgAutoDJ > QSpinBox::up-button:hover,
+#DlgAutoDJ > QSpinBox::down-button:hover,
 #DlgRecording > QPushButton:hover,
 #DlgAnalysis > QPushButton:hover {
     background-color: #262626;
