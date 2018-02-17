@@ -246,8 +246,6 @@
                 </Children>
             </WidgetGroup>
 
-            <Template src="skin:device/editdeck/pitch_controls.xml"/>
-
         </Children>
     </WidgetGroup>
     <!--

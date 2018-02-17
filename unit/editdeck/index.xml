@@ -30,8 +30,8 @@
             </Template>
 
             <WidgetGroup><!-- margin-right -->
-                <MinimumSize>2,-1</MinimumSize>
-                <MaximumSize>2,-1</MaximumSize>
+                <MinimumSize>4,-1</MinimumSize>
+                <MaximumSize>4,-1</MaximumSize>
             </WidgetGroup>
 
         </Children>

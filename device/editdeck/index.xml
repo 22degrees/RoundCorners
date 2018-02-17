@@ -32,17 +32,49 @@
                         </Children>
                     </WidgetGroup>
 
-                    <Template src="skin:device/editdeck/transport.xml"/>
+                    <WidgetGroup>
+                        <ObjectName>Rectangle</ObjectName>
+                        <Layout>horizontal</Layout>
+                        <Children>
 
-                    <Template src="skin:device/editdeck/beatgrid.xml"/>
+                            <WidgetGroup>
+                                <Layout>vertical</Layout>
+                                <Children>
 
-                    <Template src="skin:device/editdeck/hotcue_row.xml"/>
+                                    <Template src="skin:device/editdeck/transport.xml"/>
 
-                    <Template src="skin:device/editdeck/loop.xml"/>
+                                    <Template src="skin:device/editdeck/beatgrid.xml"/>
 
-                    <WidgetGroup><!-- dyn.expander -->
-                        <ObjectName>TransportRow</ObjectName>
-                        <Size>me,me</Size>
+                                    <Template src="skin:device/editdeck/hotcue_row.xml"/>
+
+                                    <Template src="skin:device/editdeck/loop.xml"/>
+
+                                </Children>
+                            </WidgetGroup>
+
+                            <WidgetGroup>
+                                <Layout>vertical</Layout>
+                                <Children>
+
+                                    <Template src="skin:device/editdeck/pitch.xml"/>
+
+                                    <Template src="skin:device/editdeck/pitch_controls.xml"/>
+
+                                </Children>
+                            </WidgetGroup>
+
+                            <WidgetGroup>
+                                <Layout>horizontal</Layout>
+                                <Children>
+
+                                    <Template src="skin:device/editdeck/slider.xml"/>
+
+                                    <Template src="skin:device/editdeck/vu.xml"/>
+
+                                </Children>
+                            </WidgetGroup>
+
+                        </Children>
                     </WidgetGroup>
 
                     <Template src="skin:device/editdeck/border_bottom.xml"/>

@@ -319,12 +319,6 @@
                         </Connection>
                     </PushButton>
 
-                    <WidgetGroup><!-- margin right -->
-                        <SizePolicy>f,f</SizePolicy>
-                        <MinimumSize>10,45</MinimumSize>
-                        <MaximumSize>10,45</MaximumSize>
-                    </WidgetGroup>
-
                 </Children>
                 <Connection>
                     <ConfigKey persist="true"><Variable name="Widget"/>,show_advanced_markers</ConfigKey>

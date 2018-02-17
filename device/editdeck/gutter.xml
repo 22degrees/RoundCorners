@@ -60,7 +60,7 @@
                                 </Children>
                             </WidgetGroup>
 
-                            <Template src="skin:device/editdeck/pitch.xml"/>
+                            
 
                         </Children>
                     </WidgetGroup>
