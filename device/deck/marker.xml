@@ -70,6 +70,14 @@
                                                 <SetVariable name="hotcue_x">4</SetVariable>
                                             </Template>
 
+                                            <Template src="skin:device/deck/button_hotcue.xml">
+                                                <SetVariable name="hotcue_x">5</SetVariable>
+                                            </Template>
+
+                                            <Template src="skin:device/deck/button_hotcue.xml">
+                                                <SetVariable name="hotcue_x">6</SetVariable>
+                                            </Template>
+
                                         </Children>
                                     </WidgetGroup>
 
@@ -81,19 +89,27 @@
                                         <Children>
 
                                             <Template src="skin:device/deck/button_hotcue.xml">
-                                                <SetVariable name="hotcue_x">5</SetVariable>
-                                            </Template>
-
-                                            <Template src="skin:device/deck/button_hotcue.xml">
-                                                <SetVariable name="hotcue_x">6</SetVariable>
-                                            </Template>
-
-                                            <Template src="skin:device/deck/button_hotcue.xml">
                                                 <SetVariable name="hotcue_x">7</SetVariable>
                                             </Template>
 
                                             <Template src="skin:device/deck/button_hotcue.xml">
                                                 <SetVariable name="hotcue_x">8</SetVariable>
+                                            </Template>
+
+                                            <Template src="skin:device/deck/button_hotcue.xml">
+                                                <SetVariable name="hotcue_x">9</SetVariable>
+                                            </Template>
+
+                                            <Template src="skin:device/deck/button_hotcue.xml">
+                                                <SetVariable name="hotcue_x">10</SetVariable>
+                                            </Template>
+
+                                            <Template src="skin:device/deck/button_hotcue.xml">
+                                                <SetVariable name="hotcue_x">11</SetVariable>
+                                            </Template>
+
+                                            <Template src="skin:device/deck/button_hotcue.xml">
+                                                <SetVariable name="hotcue_x">12</SetVariable>
                                             </Template>
 
                                         </Children>
@@ -118,32 +134,32 @@
 
                                             <Template src="skin:device/deck/marker_button.xml">
                                                 <SetVariable name="label">◢ 1</SetVariable>
-                                                <SetVariable name="hotcue_x">9</SetVariable>
-                                            </Template>
-
-                                            <Template src="skin:device/deck/marker_button.xml">
-                                                <SetVariable name="label">◢ 2</SetVariable>
-                                                <SetVariable name="hotcue_x">10</SetVariable>
-                                            </Template>
-
-                                            <Template src="skin:device/deck/marker_button.xml">
-                                                <SetVariable name="label">◢ 3</SetVariable>
-                                                <SetVariable name="hotcue_x">11</SetVariable>
-                                            </Template>
-
-                                            <Template src="skin:device/deck/marker_button.xml">
-                                                <SetVariable name="label">◢ 4</SetVariable>
-                                                <SetVariable name="hotcue_x">12</SetVariable>
-                                            </Template>
-
-                                            <Template src="skin:device/deck/marker_button.xml">
-                                                <SetVariable name="label">◢ 5</SetVariable>
                                                 <SetVariable name="hotcue_x">13</SetVariable>
                                             </Template>
 
                                             <Template src="skin:device/deck/marker_button.xml">
+                                                <SetVariable name="label">◢ 2</SetVariable>
+                                                <SetVariable name="hotcue_x">15</SetVariable>
+                                            </Template>
+
+                                            <Template src="skin:device/deck/marker_button.xml">
+                                                <SetVariable name="label">◢ 3</SetVariable>
+                                                <SetVariable name="hotcue_x">17</SetVariable>
+                                            </Template>
+
+                                            <Template src="skin:device/deck/marker_button.xml">
+                                                <SetVariable name="label">◢ 4</SetVariable>
+                                                <SetVariable name="hotcue_x">19</SetVariable>
+                                            </Template>
+
+                                            <Template src="skin:device/deck/marker_button.xml">
+                                                <SetVariable name="label">◢ 5</SetVariable>
+                                                <SetVariable name="hotcue_x">21</SetVariable>
+                                            </Template>
+
+                                            <Template src="skin:device/deck/marker_button.xml">
                                                 <SetVariable name="label">◢ 6</SetVariable>
-                                                <SetVariable name="hotcue_x">14</SetVariable>
+                                                <SetVariable name="hotcue_x">23</SetVariable>
                                             </Template>
 
                                         </Children>
@@ -158,7 +174,7 @@
 
                                             <Template src="skin:device/deck/marker_button.xml">
                                                 <SetVariable name="label">◣ 1</SetVariable>
-                                                <SetVariable name="hotcue_x">15</SetVariable>
+                                                <SetVariable name="hotcue_x">14</SetVariable>
                                             </Template>
 
                                             <Template src="skin:device/deck/marker_button.xml">
@@ -168,22 +184,22 @@
 
                                             <Template src="skin:device/deck/marker_button.xml">
                                                 <SetVariable name="label">◣ 3</SetVariable>
-                                                <SetVariable name="hotcue_x">17</SetVariable>
-                                            </Template>
-
-                                            <Template src="skin:device/deck/marker_button.xml">
-                                                <SetVariable name="label">◣ 4</SetVariable>
                                                 <SetVariable name="hotcue_x">18</SetVariable>
                                             </Template>
 
                                             <Template src="skin:device/deck/marker_button.xml">
+                                                <SetVariable name="label">◣ 4</SetVariable>
+                                                <SetVariable name="hotcue_x">20</SetVariable>
+                                            </Template>
+
+                                            <Template src="skin:device/deck/marker_button.xml">
                                                 <SetVariable name="label">◣ 5</SetVariable>
-                                                <SetVariable name="hotcue_x">19</SetVariable>
+                                                <SetVariable name="hotcue_x">22</SetVariable>
                                             </Template>
 
                                             <Template src="skin:device/deck/marker_button.xml">
                                                 <SetVariable name="label">◣ 6</SetVariable>
-                                                <SetVariable name="hotcue_x">20</SetVariable>
+                                                <SetVariable name="hotcue_x">24</SetVariable>
                                             </Template>
 
                                         </Children>
@@ -208,42 +224,32 @@
 
                                             <Template src="skin:device/deck/marker_button.xml">
                                                 <SetVariable name="label">↦ 1</SetVariable>
-                                                <SetVariable name="hotcue_x">21</SetVariable>
-                                            </Template>
-
-                                            <Template src="skin:device/deck/marker_button.xml">
-                                                <SetVariable name="label">↦ 2</SetVariable>
-                                                <SetVariable name="hotcue_x">22</SetVariable>
-                                            </Template>
-
-                                            <Template src="skin:device/deck/marker_button.xml">
-                                                <SetVariable name="label">↦ 3</SetVariable>
-                                                <SetVariable name="hotcue_x">23</SetVariable>
-                                            </Template>
-
-                                            <Template src="skin:device/deck/marker_button.xml">
-                                                <SetVariable name="label">↦ 4</SetVariable>
-                                                <SetVariable name="hotcue_x">24</SetVariable>
-                                            </Template>
-
-                                            <Template src="skin:device/deck/marker_button.xml">
-                                                <SetVariable name="label">↦ 5</SetVariable>
                                                 <SetVariable name="hotcue_x">25</SetVariable>
                                             </Template>
 
                                             <Template src="skin:device/deck/marker_button.xml">
-                                                <SetVariable name="label">↦ 6</SetVariable>
-                                                <SetVariable name="hotcue_x">26</SetVariable>
-                                            </Template>
-
-                                            <Template src="skin:device/deck/marker_button.xml">
-                                                <SetVariable name="label">↦ 7</SetVariable>
+                                                <SetVariable name="label">↦ 2</SetVariable>
                                                 <SetVariable name="hotcue_x">27</SetVariable>
                                             </Template>
 
                                             <Template src="skin:device/deck/marker_button.xml">
-                                                <SetVariable name="label">↦ 8</SetVariable>
-                                                <SetVariable name="hotcue_x">28</SetVariable>
+                                                <SetVariable name="label">↦ 3</SetVariable>
+                                                <SetVariable name="hotcue_x">29</SetVariable>
+                                            </Template>
+
+                                            <Template src="skin:device/deck/marker_button.xml">
+                                                <SetVariable name="label">↦ 4</SetVariable>
+                                                <SetVariable name="hotcue_x">31</SetVariable>
+                                            </Template>
+
+                                            <Template src="skin:device/deck/marker_button.xml">
+                                                <SetVariable name="label">↦ 5</SetVariable>
+                                                <SetVariable name="hotcue_x">33</SetVariable>
+                                            </Template>
+
+                                            <Template src="skin:device/deck/marker_button.xml">
+                                                <SetVariable name="label">↦ 6</SetVariable>
+                                                <SetVariable name="hotcue_x">35</SetVariable>
                                             </Template>
 
                                         </Children>
@@ -258,17 +264,17 @@
 
                                             <Template src="skin:device/deck/marker_button.xml">
                                                 <SetVariable name="label">⇥ 1</SetVariable>
-                                                <SetVariable name="hotcue_x">29</SetVariable>
+                                                <SetVariable name="hotcue_x">26</SetVariable>
                                             </Template>
 
                                             <Template src="skin:device/deck/marker_button.xml">
                                                 <SetVariable name="label">⇥ 2</SetVariable>
-                                                <SetVariable name="hotcue_x">30</SetVariable>
+                                                <SetVariable name="hotcue_x">28</SetVariable>
                                             </Template>
 
                                             <Template src="skin:device/deck/marker_button.xml">
                                                 <SetVariable name="label">⇥ 3</SetVariable>
-                                                <SetVariable name="hotcue_x">31</SetVariable>
+                                                <SetVariable name="hotcue_x">30</SetVariable>
                                             </Template>
 
                                             <Template src="skin:device/deck/marker_button.xml">
@@ -278,23 +284,14 @@
 
                                             <Template src="skin:device/deck/marker_button.xml">
                                                 <SetVariable name="label">⇥ 5</SetVariable>
-                                                <SetVariable name="hotcue_x">33</SetVariable>
-                                            </Template>
-
-                                            <Template src="skin:device/deck/marker_button.xml">
-                                                <SetVariable name="label">⇥ 6</SetVariable>
                                                 <SetVariable name="hotcue_x">34</SetVariable>
                                             </Template>
 
                                             <Template src="skin:device/deck/marker_button.xml">
-                                                <SetVariable name="label">↦ 7</SetVariable>
-                                                <SetVariable name="hotcue_x">35</SetVariable>
-                                            </Template>
-
-                                            <Template src="skin:device/deck/marker_button.xml">
-                                                <SetVariable name="label">↦ 8</SetVariable>
+                                                <SetVariable name="label">⇥ 6</SetVariable>
                                                 <SetVariable name="hotcue_x">36</SetVariable>
                                             </Template>
+
                                         </Children>
                                     </WidgetGroup>
 
