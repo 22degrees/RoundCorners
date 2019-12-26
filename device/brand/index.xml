@@ -50,7 +50,7 @@
                             <Label>
                                 <Size>50f,45f</Size>
                                 <ObjectName>Version</ObjectName>
-                                <Text>v.2.1.0</Text>
+                                <Text>v.2.2.3</Text>
                                 <Alignment>right</Alignment>
                             </Label>
 
