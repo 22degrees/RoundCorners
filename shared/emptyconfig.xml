@@ -6,7 +6,7 @@
         <Layout>horizontal</Layout>
         <SizePolicy>me,me</SizePolicy>
         <Connection>
-            <ConfigKey>[Master],show_settings</ConfigKey>
+            <ConfigKey>[Master],skin_settings</ConfigKey>
             <BindProperty>visible</BindProperty>
         </Connection>
     </WidgetGroup>

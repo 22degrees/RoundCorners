@@ -256,7 +256,7 @@
 
                     <PushButton>
                         <ObjectName>Btn-brr</ObjectName>
-                        <TooltipId>reloop_exit</TooltipId>
+                        <TooltipId>loop_exit</TooltipId>
                         <Size>15me,45f</Size>
                         <NumberStates>2</NumberStates>
                         <LeftClickIsPushButton>true</LeftClickIsPushButton>

@@ -3,12 +3,12 @@
 
     <!--
     **************************************************************************************
-    HOTCUE-BUTTON BEGIN
+    LOOP-BUTTON BEGIN
     **************************************************************************************
     -->
     <PushButton>
         <ObjectName><Variable name="ObjectName"/></ObjectName>
-        <TooltipId>beatloop</TooltipId>
+        <TooltipId>beatloop_size</TooltipId>
         <NumberStates>2</NumberStates>
         <Size>15me,23f</Size>
         <State>
@@ -36,7 +36,7 @@
     </PushButton>
     <!--
     **************************************************************************************
-    HOTCUE-BUTTON END
+    LOOP-BUTTON END
     **************************************************************************************
     -->
 
