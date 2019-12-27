@@ -36,7 +36,7 @@
                         <SetVariable name="ObjectName">Btn-bblr</SetVariable>
                         <SetVariable name="Size">80me,23f</SetVariable>
                         <SetVariable name="icon"></SetVariable>
-                        <SetVariable name="control">[Master],show_settings</SetVariable>
+                        <SetVariable name="control">[Master],skin_settings</SetVariable>
                         <SetVariable name="text">SETTINGS</SetVariable>
                     </Template>
 

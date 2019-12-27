@@ -33,7 +33,7 @@
 
         </Children>
         <Connection>
-            <ConfigKey>[Master],show_settings</ConfigKey>
+            <ConfigKey>[Master],skin_settings</ConfigKey>
             <BindProperty>visible</BindProperty>
         </Connection>
     </WidgetGroup>
