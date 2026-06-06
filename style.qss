@@ -931,13 +931,13 @@ QScrollBar::sub-page:vertical {
 
 #Logo {
     background: transparent url(skin:/background/logo.png) no-repeat center left;
+    padding-top: 33px;
 }
 
 #Version {
     font-size: 12px;
     background: transparent;
     color: #484848;
-    margin-top: 33px;
 }
 
 #Time {
