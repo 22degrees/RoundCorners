@@ -27,27 +27,29 @@ A 4-deck full-featured and resizable skin for [MIXXX](https://github.com/mixxxdj
 
 ## How to install this skin
 1. Close Mixxx.
-2. Download & unzip "RoundCorners-master.zip" and copy the whole unzipped folder to the corresponding path:
+2. Create a folder "skins" in the folder where the Mixxx config file is located:
 
 #### Linux
-/usr/share/mixxx/skins/
+Linux: ~/.mixxx/
 
-Note that you may get permission error while copying,
-make sure you have root privileges
+#### Windows (Vista and up)
+%LOCALAPPDATA%\Mixxx\
 
-#### Windows
-C:\Program Files\Mixxx\skins
+#### Windows (XP and below)
+%USERPROFILE%\Local Settings\Application Data\Mixxx\
 
-#### Mac OSX
-- In the Finder, go to the Applications folder and select Mixxx.
-- Right Click and choose "Show Package Contents" from the Action menu.
-- goto Contents/Resources/skins
+#### Mac OSX (Mixxx 2.2.x and earlier)
+~/Library/Application Support/Mixxx
 
+#### Mac OSX (Mixxx 2.3.x)
+~/Library/Containers/org.mixxx.mixxx/Data/Library/Application Support/Mixxx
 
-3. Start Mixxx, goto "Preferences-->Interface" and select "RoundCorners"
-   Save preferences with OK.
-4. The new skin should now be displayed.
-5. Done.
+3. Download & unzip "RoundCorners-master.zip" and copy the whole unzipped folder "RoundCorners" to the new "skins" folder.
+4. Start Mixxx.
+5. Open Options > Preferences > Interface, in the Skin drop-down menu select "RoundCorners".
+6. Save preferences with Apply.
+7. Done, the new skin should now be displayed.
+
 
 ## History
 TODO
