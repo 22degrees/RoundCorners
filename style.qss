@@ -2227,6 +2227,7 @@ QScrollBar::sub-page:vertical {
 
 #MasterVu, #ChannelVu {
     background: transparent url(skin:/background/bg_4_vu.svg) repeat-x right center;
+    padding-top: 2px;
 }
 
 #MasterVuBottom, #ChannelVuBottom {

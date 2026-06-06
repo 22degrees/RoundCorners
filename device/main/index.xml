@@ -63,9 +63,10 @@
 
                                             <VuMeter>
                                                 <!-- <SizePolicy>min,max</SizePolicy> -->
-                                                <Size>me,22f</Size>
+                                                <Size>me,8f</Size>
                                                 <TooltipId>master_VuMeterL</TooltipId>
-                                                <PathVu>background/bg_4_vu_left_on.svg</PathVu>
+                                                <PathBack scalemode="STRETCH">background/bg_4_vu_left_off.png</PathBack>
+                                                <PathVu scalemode="STRETCH">background/bg_4_vu_left_on.png</PathVu>
                                                 <Horizontal>true</Horizontal>
                                                 <PeakHoldSize>4</PeakHoldSize>
                                                 <PeakHoldTime>500</PeakHoldTime>
@@ -78,9 +79,10 @@
 
                                             <VuMeter>
                                                 <!-- <SizePolicy>min,max</SizePolicy> -->
-                                                <Size>me,23f</Size>
+                                                <Size>me,10f</Size>
                                                 <TooltipId>master_VuMeterR</TooltipId>
-                                                <PathVu>background/bg_4_vu_right_on.svg</PathVu>
+                                                <PathBack scalemode="STRETCH">background/bg_4_vu_right_off.png</PathBack>
+                                                <PathVu scalemode="STRETCH">background/bg_4_vu_right_on.png</PathVu>
                                                 <Horizontal>true</Horizontal>
                                                 <PeakHoldSize>4</PeakHoldSize>
                                                 <PeakHoldTime>500</PeakHoldTime>
@@ -142,9 +144,10 @@
 
                                             <VuMeter>
                                                 <!-- <SizePolicy>min,max</SizePolicy> -->
-                                                <Size>me,22f</Size>
+                                                <Size>me,8f</Size>
                                                 <TooltipId>master_VuMeterL</TooltipId>
-                                                <PathVu>background/bg_4_vu_left_on.svg</PathVu>
+                                                <PathBack scalemode="STRETCH">background/bg_4_vu_left_off.png</PathBack>
+                                                <PathVu scalemode="STRETCH">background/bg_4_vu_left_on.png</PathVu>
                                                 <Horizontal>true</Horizontal>
                                                 <PeakHoldSize>4</PeakHoldSize>
                                                 <PeakHoldTime>500</PeakHoldTime>
@@ -157,9 +160,10 @@
 
                                             <VuMeter>
                                                 <!-- <SizePolicy>min,max</SizePolicy> -->
-                                                <Size>me,23f</Size>
+                                                <Size>me,10f</Size>
                                                 <TooltipId>master_VuMeterR</TooltipId>
-                                                <PathVu>background/bg_4_vu_right_on.svg</PathVu>
+                                                <PathBack scalemode="STRETCH">background/bg_4_vu_right_off.png</PathBack>
+                                                <PathVu scalemode="STRETCH">background/bg_4_vu_right_on.png</PathVu>
                                                 <Horizontal>true</Horizontal>
                                                 <PeakHoldSize>4</PeakHoldSize>
                                                 <PeakHoldTime>500</PeakHoldTime>
@@ -221,9 +225,10 @@
 
                                             <VuMeter>
                                                 <!-- <SizePolicy>min,max</SizePolicy> -->
-                                                <Size>me,22f</Size>
+                                                <Size>me,8f</Size>
                                                 <TooltipId>master_VuMeterL</TooltipId>
-                                                <PathVu>background/bg_4_vu_left_on.svg</PathVu>
+                                                <PathBack scalemode="STRETCH">background/bg_4_vu_left_off.png</PathBack>
+                                                <PathVu scalemode="STRETCH">background/bg_4_vu_left_on.png</PathVu>
                                                 <Horizontal>true</Horizontal>
                                                 <PeakHoldSize>4</PeakHoldSize>
                                                 <PeakHoldTime>500</PeakHoldTime>
@@ -236,9 +241,10 @@
 
                                             <VuMeter>
                                                 <!-- <SizePolicy>min,max</SizePolicy> -->
-                                                <Size>me,23f</Size>
+                                                <Size>me,10f</Size>
                                                 <TooltipId>master_VuMeterR</TooltipId>
-                                                <PathVu>background/bg_4_vu_right_on.svg</PathVu>
+                                                <PathBack scalemode="STRETCH">background/bg_4_vu_right_off.png</PathBack>
+                                                <PathVu scalemode="STRETCH">background/bg_4_vu_right_on.png</PathVu>
                                                 <Horizontal>true</Horizontal>
                                                 <PeakHoldSize>4</PeakHoldSize>
                                                 <PeakHoldTime>500</PeakHoldTime>

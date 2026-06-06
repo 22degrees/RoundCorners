@@ -5,8 +5,8 @@
    width="350"
    version="1.1"
    id="svg3"
-   sodipodi:docname="bg_4_vu_left_on.svg"
-   inkscape:export-filename="bg_4_vu_left_off.png"
+   sodipodi:docname="bg_4_vu_left_off.svg"
+   inkscape:export-filename="bg_4_vu_left_on.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
@@ -18,7 +18,7 @@
      id="defs3">
     <linearGradient
        id="linearGradient3"
-       gradientTransform="matrix(70,0,0,0.025,-210.00008,15)"
+       gradientTransform="matrix(70,0,0,0.025,-210.00009,15)"
        gradientUnits="userSpaceOnUse"
        x1="3"
        x2="8"
@@ -88,9 +88,4 @@
      fill="url(#a)"
      id="path3"
      style="fill:#262626;fill-opacity:1" />
-  <path
-     d="m 0,15 h 350.00001 v 5 H 0 Z"
-     fill="url(#a)"
-     id="path3-1"
-     style="fill:url(#linearGradient3)" />
 </svg>
